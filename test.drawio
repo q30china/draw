@@ -19,11 +19,11 @@
         <mxCell id="VAnJiJQfd62OOGLLckr2-3" value="机架控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="18" y="200" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VAnJiJQfd62OOGLLckr2-5" value="loopback1(网易云音乐，K歌等背景音乐)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VAnJiJQfd62OOGLLckr2-5" value="Loopback 伴奏输入(网易云，k歌，酷狗)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VAnJiJQfd62OOGLLckr2-6" value="loopback2(源：声卡的主要输出端口，输出)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="VAnJiJQfd62OOGLLckr2-6" value="loopback-Studio one输出(在机架控制的音频设置中使用聚合设备后的输出,取消下面勾选)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAnJiJQfd62OOGLLckr2-7" value="loopback3(Pass_Thru)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
@@ -34,8 +34,8 @@
         <mxCell id="VAnJiJQfd62OOGLLckr2-13" value="音频设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VAnJiJQfd62OOGLLckr2-19" value="录制设备：MIDI聚合设备&lt;div&gt;回放设备：MIDI聚合设备&lt;/div&gt;&lt;div&gt;采样频率和缓冲区大小&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="23" width="160" height="60" as="geometry" />
+        <mxCell id="VAnJiJQfd62OOGLLckr2-19" value="录制设备：MIDI聚合设备&lt;div&gt;回放设备：MIDI聚合设备&lt;/div&gt;&lt;div&gt;采样频率和缓冲区大小:128&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="18" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAnJiJQfd62OOGLLckr2-20" value="音频I/O" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="340" width="120" height="60" as="geometry" />
@@ -108,6 +108,18 @@
         </mxCell>
         <mxCell id="VAnJiJQfd62OOGLLckr2-51" value="聚合音频设备的声卡输出或pass_thru输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VAnJiJQfd62OOGLLckr2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VAnJiJQfd62OOGLLckr2-52" target="VAnJiJQfd62OOGLLckr2-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VAnJiJQfd62OOGLLckr2-52" value="苹果系统声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAnJiJQfd62OOGLLckr2-53" value="输入studio one输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAnJiJQfd62OOGLLckr2-54" value="输出是声卡" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
