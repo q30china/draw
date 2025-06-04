@@ -4,43 +4,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="550" height="460" as="geometry" />
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxGeometry x="110" y="40" width="620" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-5">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-6">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="产品开发测试" treeRoot="1" id="ze23tj0L3lsAWGdD1u4b-4">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+        <UserObject label="产品开发测试(40)" treeRoot="1" id="ze23tj0L3lsAWGdD1u4b-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="ze23tj0L3lsAWGdD1u4b-1" vertex="1">
             <mxGeometry x="215" y="90" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-5" value="固件开发" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-5" value="固件开发(20)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="ze23tj0L3lsAWGdD1u4b-1" vertex="1" collapsed="1">
           <mxGeometry x="40" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-6" value="硬件开发" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-6" value="硬件开发(18)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="ze23tj0L3lsAWGdD1u4b-1" vertex="1">
           <mxGeometry x="160" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-10" value="上位机" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-10" value="上位机(18)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="ze23tj0L3lsAWGdD1u4b-1" vertex="1">
           <mxGeometry x="280" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-10">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="254" y="150" as="sourcePoint" />
             <mxPoint x="210" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-12" value="测试" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-12" value="测试(20)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="ze23tj0L3lsAWGdD1u4b-1" vertex="1" collapsed="1">
           <mxGeometry x="410" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ze23tj0L3lsAWGdD1u4b-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-12">
+        <mxCell id="ze23tj0L3lsAWGdD1u4b-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="ze23tj0L3lsAWGdD1u4b-1" source="ze23tj0L3lsAWGdD1u4b-4" target="ze23tj0L3lsAWGdD1u4b-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="254" y="150" as="sourcePoint" />
             <mxPoint x="330" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zBCr5KkDJ-O4WMeaJdgD-26" value="116W" style="whiteSpace=wrap;html=1;" vertex="1" parent="ze23tj0L3lsAWGdD1u4b-1">
+          <mxGeometry x="360" y="100" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
