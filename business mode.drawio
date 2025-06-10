@@ -139,6 +139,12 @@
         <mxCell id="3K_Mu4hXgfkXYXGYBe7w-19" value="产品规格，需求反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-20" value="可提供有价格竞争力的产品清单&lt;div&gt;可提供一站式解决方案服务清单&lt;/div&gt;&lt;div&gt;可提供原产地产品的OEM服务&lt;/div&gt;&lt;div&gt;可提供灵活的本地仓服务&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-120" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-21" value="产品的技术规格&lt;div&gt;产品的认证&lt;br&gt;&lt;div&gt;样品&lt;/div&gt;&lt;div&gt;产品的功能&lt;/div&gt;&lt;div&gt;产品的性能&lt;/div&gt;&lt;div&gt;试点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="110" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
