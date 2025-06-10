@@ -145,6 +145,18 @@
         <mxCell id="3K_Mu4hXgfkXYXGYBe7w-21" value="产品的技术规格&lt;div&gt;产品的认证&lt;br&gt;&lt;div&gt;样品&lt;/div&gt;&lt;div&gt;产品的功能&lt;/div&gt;&lt;div&gt;产品的性能&lt;/div&gt;&lt;div&gt;试点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="110" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-45" value="客户群体" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-150" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-46" value="代理" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="3K_Mu4hXgfkXYXGYBe7w-45">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-47" value="采购" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="3K_Mu4hXgfkXYXGYBe7w-45">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_Mu4hXgfkXYXGYBe7w-48" value="商机" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="3K_Mu4hXgfkXYXGYBe7w-45">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
