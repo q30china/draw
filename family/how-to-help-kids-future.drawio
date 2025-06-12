@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-13" value="重点举措" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="70" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="82" y="200" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2pKCkxB4eQbUYBymHreq-1" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;9：00之前必须起床&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;上午读书1小时&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;下午读书1小时&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;晚上读书1小时&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;玩出活动半小时&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;参与家务半小时&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;24：00 之前必须熄灯睡觉&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s-qvJ4FQePMg8JL_yR_o-13">
-          <mxGeometry x="-15" y="20" width="210" height="180" as="geometry" />
+          <mxGeometry x="-5" y="20" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120" y="80" width="700" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-15" value="改变生活习惯" style="rounded=0;whiteSpace=wrap;html=1;" parent="s-qvJ4FQePMg8JL_yR_o-23" vertex="1">
-          <mxGeometry x="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="2" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="s-qvJ4FQePMg8JL_yR_o-23" source="s-qvJ4FQePMg8JL_yR_o-16" target="s-qvJ4FQePMg8JL_yR_o-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,19 +31,34 @@
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-24" value="生活技能学习" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="290" y="200" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2pKCkxB4eQbUYBymHreq-3" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;烹饪技能&lt;/span&gt;&lt;/li&gt;&lt;li&gt;工具使用技能&lt;/li&gt;&lt;li&gt;寻找解决方案技能(AI)&lt;/li&gt;&lt;li&gt;持续学习技能&lt;/li&gt;&lt;li&gt;分析事件本身复盘技能&lt;/li&gt;&lt;li&gt;计划和降低风险技能&lt;/li&gt;&lt;li&gt;高情商技能&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s-qvJ4FQePMg8JL_yR_o-24">
+          <mxGeometry y="25" width="180" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-25" value="专业技能学习" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="510" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="495" y="200" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2pKCkxB4eQbUYBymHreq-6" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;英语听说读写提升&lt;/span&gt;&lt;/li&gt;&lt;li&gt;小语种学习-西班牙语&lt;/li&gt;&lt;li&gt;驾驶技能的提升&lt;/li&gt;&lt;li&gt;美甲技能的学习&lt;/li&gt;&lt;li&gt;平面设计美学的学习&lt;/li&gt;&lt;li&gt;自媒体相关学习&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s-qvJ4FQePMg8JL_yR_o-25">
+          <mxGeometry y="25" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-26" value="实习和实践" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="730" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="711" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2pKCkxB4eQbUYBymHreq-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-qvJ4FQePMg8JL_yR_o-18" target="s-qvJ4FQePMg8JL_yR_o-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-18" value="实践" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="767" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="751" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s-qvJ4FQePMg8JL_yR_o-17" target="s-qvJ4FQePMg8JL_yR_o-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2pKCkxB4eQbUYBymHreq-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-qvJ4FQePMg8JL_yR_o-15" target="s-qvJ4FQePMg8JL_yR_o-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2pKCkxB4eQbUYBymHreq-7" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-qvJ4FQePMg8JL_yR_o-16" target="s-qvJ4FQePMg8JL_yR_o-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2pKCkxB4eQbUYBymHreq-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-qvJ4FQePMg8JL_yR_o-17" target="s-qvJ4FQePMg8JL_yR_o-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
