@@ -7,8 +7,11 @@ by q30china
 ## 目录结构
 ```
 draw/
-├── famaliy/            ← Technical documentation and knowledge base
-├── study/              ← Patents and software copyrightst
-├── business/           ← Experiment records and analysis
-└── README.md           ← Current file
+├── business/           ← Work related
+├── family/             ← Life related
+├── study/              ← Study related
+└── README.md           ← Current readme file
 ```
+## 存储内容
+
+**存储为.io的xml文件，可以在线打开**
