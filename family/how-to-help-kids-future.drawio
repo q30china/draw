@@ -37,8 +37,8 @@
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-25" value="专业技能学习（第三阶段）" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="495" y="200" width="210" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="2pKCkxB4eQbUYBymHreq-6" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;英语听说读写提升&lt;/span&gt;&lt;/li&gt;&lt;li&gt;小语种学习-西班牙语&lt;/li&gt;&lt;li&gt;驾驶技能的提升&lt;/li&gt;&lt;li&gt;美甲技能的学习&lt;/li&gt;&lt;li&gt;平面设计美学的学习&lt;/li&gt;&lt;li&gt;自媒体相关学习&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s-qvJ4FQePMg8JL_yR_o-25">
-          <mxGeometry y="25" width="180" height="150" as="geometry" />
+        <mxCell id="2pKCkxB4eQbUYBymHreq-6" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;英语听说读写提升&lt;/span&gt;&lt;/li&gt;&lt;li&gt;小语种学习-西班牙语&lt;/li&gt;&lt;li&gt;驾驶技能的提升&lt;/li&gt;&lt;li&gt;美甲技能的学习&lt;/li&gt;&lt;li&gt;平面设计美学的学习&lt;/li&gt;&lt;li&gt;自媒体相关学习&lt;/li&gt;&lt;li&gt;数据图表表示技能学习&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s-qvJ4FQePMg8JL_yR_o-25">
+          <mxGeometry y="25" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="s-qvJ4FQePMg8JL_yR_o-26" value="实习和实践" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="711" y="200" width="200" height="200" as="geometry" />
