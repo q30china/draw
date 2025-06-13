@@ -150,16 +150,16 @@
         <mxCell id="-p8jg17vCJRUrCgAk-5i-13" value="&lt;h1&gt;产品&lt;/h1&gt;&lt;p&gt;产品做完测试，具备可生产和销售能力，输出所有的技术文档和销售材料。.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="640" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-p8jg17vCJRUrCgAk-5i-14" value="2025.6.30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-p8jg17vCJRUrCgAk-5i-14" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;2025.6.30&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="690" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-p8jg17vCJRUrCgAk-5i-15" value="2025.7.30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-p8jg17vCJRUrCgAk-5i-15" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2025.7.30&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="356.5" y="850" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-p8jg17vCJRUrCgAk-5i-16" value="2025.8.30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-p8jg17vCJRUrCgAk-5i-16" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;2025.8.30&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="690" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-p8jg17vCJRUrCgAk-5i-17" value="2026.1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-p8jg17vCJRUrCgAk-5i-17" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;2026.1.1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815.5" y="850" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
