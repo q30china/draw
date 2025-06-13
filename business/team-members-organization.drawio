@@ -162,8 +162,8 @@
         <mxCell id="-p8jg17vCJRUrCgAk-5i-17" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;2026.1.1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="815.5" y="850" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uxqLoSJ2juYxk0nRJcqq-1" value="DLMS认证" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="950" width="253" height="200" as="geometry" />
+        <mxCell id="uxqLoSJ2juYxk0nRJcqq-1" value="DLMS认证（3000+3000，2500，2500欧）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="970" width="285" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uxqLoSJ2juYxk0nRJcqq-2" value="产品认证费用： 3000欧元&lt;div&gt;DLMSTT2.0工具费用：3000欧元(其它厂家)&lt;/div&gt;&lt;div&gt;购买DLMSTT工具2.0 license: 60000欧元&lt;/div&gt;&lt;div&gt;工具每年需要交9000欧元&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-1">
           <mxGeometry y="30" width="250" height="100" as="geometry" />
@@ -171,8 +171,8 @@
         <mxCell id="uxqLoSJ2juYxk0nRJcqq-3" value="会员费用： Adopter Member, 2500欧元每年&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Full Member, 4000欧元每年&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-1">
           <mxGeometry y="130" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uxqLoSJ2juYxk0nRJcqq-4" value="STS认证" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="950" width="253" height="200" as="geometry" />
+        <mxCell id="uxqLoSJ2juYxk0nRJcqq-4" value="STS认证（2500+1200， 2500， 2500美元）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523.5" y="969" width="286.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uxqLoSJ2juYxk0nRJcqq-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;注册会员： 2500美元&lt;/div&gt;产品认证费用： 1200美元&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-4">
           <mxGeometry x="43" y="55" width="160" height="70" as="geometry" />
