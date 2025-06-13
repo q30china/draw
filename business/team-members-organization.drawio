@@ -174,11 +174,11 @@
         <mxCell id="uxqLoSJ2juYxk0nRJcqq-4" value="STS认证" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="950" width="253" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="uxqLoSJ2juYxk0nRJcqq-5" value="产品认证费用： 3000欧元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-4">
-          <mxGeometry x="43" y="75" width="160" height="30" as="geometry" />
+        <mxCell id="uxqLoSJ2juYxk0nRJcqq-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;注册会员： 2500美元&lt;/div&gt;产品认证费用： 1200美元&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-4">
+          <mxGeometry x="43" y="55" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uxqLoSJ2juYxk0nRJcqq-6" value="会员费用：&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Full Member, 4000欧元每年&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-4">
-          <mxGeometry x="13" y="120" width="220" height="40" as="geometry" />
+        <mxCell id="uxqLoSJ2juYxk0nRJcqq-6" value="会员费用：&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2500美元每年&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uxqLoSJ2juYxk0nRJcqq-4">
+          <mxGeometry x="53" y="120" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
