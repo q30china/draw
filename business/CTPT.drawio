@@ -44,10 +44,13 @@
           <mxGeometry x="130" y="605" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xBLkms5auqcCcTdKjRe0-23" value="技术资料和报价" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="515" width="390" height="275" as="geometry" />
+          <mxGeometry x="300" y="515" width="390" height="275" as="geometry" />
         </mxCell>
         <mxCell id="xBLkms5auqcCcTdKjRe0-24" value="1. 23KV MT 25/50-5A&amp;nbsp; 户外，户内成套价格&lt;div&gt;（包含3PT，3CT，3避雷器，安装支架，线缆，二次接线盒）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 23KV MT 75/150-5A&amp;nbsp; 户外，户内成套价格&lt;div&gt;（包含3PT，3CT，3避雷器，安装支架，线缆，二次接线盒）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. PT是否遵循 IEC 61869-3，是否有报告。&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CT是否遵循&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IEC 61869-2，是否有报告。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. 23KV成套设备需要定制开模，模具费用。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. 现有产品，比如10KV，或者35KV类似成套设备的宣传资料和技术&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xBLkms5auqcCcTdKjRe0-23">
           <mxGeometry x="20" y="27.5" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLkms5auqcCcTdKjRe0-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
