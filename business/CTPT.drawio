@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xBLkms5auqcCcTdKjRe0-2" value="项目背景" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLkms5auqcCcTdKjRe0-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;国家：巴拉圭&lt;/div&gt;&lt;div&gt;模式：本地代理投标(国际标)&lt;/div&gt;项目：2025.10月份发标&lt;div&gt;产品：紧凑型户外户内中压量测套件&lt;/div&gt;&lt;div&gt;预算：80万美金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xBLkms5auqcCcTdKjRe0-2">
+          <mxGeometry x="20" y="30" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLkms5auqcCcTdKjRe0-4" value="产品" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="405" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLkms5auqcCcTdKjRe0-5" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.&amp;nbsp; 100台紧凑型测量设备&lt;/b&gt;&lt;/font&gt;&lt;div&gt;该中压成套设备将用于23千伏中压客户的电能计量。&lt;/div&gt;&lt;div&gt;测量系统需采用三元件结构，包含3台&amp;gt;电压互感器和3台电流互感器，&lt;/div&gt;&lt;div&gt;并配置由三台避雷器组成的过电压保护装置&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(38, 24, 255);&quot;&gt;电压互感器技术参数&lt;/font&gt;：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;变比： 120&lt;/div&gt;&lt;div&gt;&lt;div&gt;负荷容量：20伏安（功率因数0.8）&lt;/div&gt;&lt;div&gt;精度等级：0.5&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(38, 24, 255);&quot;&gt;&lt;b&gt;电流互感器技术参数：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;一次电流：&lt;font style=&quot;color: rgb(102, 0, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;双变比25-50安培&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;二次电流：5安培&lt;/div&gt;&lt;div&gt;负荷容量：10伏安&lt;/div&gt;&lt;div&gt;精度等级：0.5&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xBLkms5auqcCcTdKjRe0-4">
+          <mxGeometry x="15" y="30" width="390" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLkms5auqcCcTdKjRe0-6" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.&amp;nbsp; 50台紧凑型测量设备&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(38, 24, 255);&quot;&gt;&lt;b&gt;电流互感器技术参数：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;一次电流：&lt;font style=&quot;color: rgb(102, 0, 51);&quot;&gt;&lt;b&gt;双变比25-50安培&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;二次电流：5安培&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xBLkms5auqcCcTdKjRe0-4">
+          <mxGeometry x="20" y="250" width="170" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
