@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="stHkNYjPsgnvwqnEDeHq">
-    <mxGraphModel dx="1097" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="VkH7h2HziBzFlEW19kWf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
           <mxGeometry width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="VkH7h2HziBzFlEW19kWf-22" value="Paser(解析器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
+        <mxCell id="VkH7h2HziBzFlEW19kWf-22" value="Parser(解析器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
           <mxGeometry x="90" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-23" value="Interpreter&lt;div&gt;（解释器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
@@ -111,6 +111,30 @@
         </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-64" value="Test System Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="600" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="740" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-74" value="Comparator&lt;br&gt;&lt;div&gt;(比较器)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="130.5" y="20" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-75" value="Converter(转换器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="130.5" y="80" width="130.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-76" value="Parser(解析器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="130.5" y="130" width="130.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-77" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="14.5" y="25" width="45.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-78" value="Testl Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="72.5" y="190" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-79" value="测试&lt;div&gt;定义&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-72">
+          <mxGeometry x="72.5" y="25" width="45.5" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
