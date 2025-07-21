@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="stHkNYjPsgnvwqnEDeHq">
-    <mxGraphModel dx="1097" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VkH7h2HziBzFlEW19kWf-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="690" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="35" y="120" width="780" height="140" as="geometry" />
         </mxCell>
@@ -19,12 +22,6 @@
         <mxCell id="VkH7h2HziBzFlEW19kWf-4" value="pyproto&lt;br&gt;&lt;div&gt;（电表 模块）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
           <mxGeometry x="210" y="80" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VkH7h2HziBzFlEW19kWf-5" value="System&lt;div&gt;（HES+MDC）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VkH7h2HziBzFlEW19kWf-6" value="Device&lt;div&gt;（电表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
-          <mxGeometry y="75" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-11" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
           <mxGeometry x="600" y="40" width="40" height="30" as="geometry" />
         </mxCell>
@@ -34,8 +31,17 @@
         <mxCell id="VkH7h2HziBzFlEW19kWf-13" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
           <mxGeometry x="140" y="45" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-50" value="" style="group" vertex="1" connectable="0" parent="VkH7h2HziBzFlEW19kWf-14">
+          <mxGeometry width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-5" value="System&lt;div&gt;（HES+MDC）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-50">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-6" value="Device&lt;div&gt;（电表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-50">
+          <mxGeometry y="75" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="360" width="190" height="220" as="geometry" />
+          <mxGeometry x="646" y="360" width="190" height="220" as="geometry" />
         </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-19">
           <mxGeometry width="190" height="180" as="geometry" />
@@ -50,7 +56,7 @@
           <mxGeometry x="59.89130434782609" y="190" width="70.21739130434783" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="360" width="200" height="220" as="geometry" />
+          <mxGeometry x="387" y="360" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="VkH7h2HziBzFlEW19kWf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
           <mxGeometry width="200" height="180" as="geometry" />
@@ -70,11 +76,35 @@
         <mxCell id="VkH7h2HziBzFlEW19kWf-31" value="High Level Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-40">
           <mxGeometry x="50" y="190" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VkH7h2HziBzFlEW19kWf-36" value="Pysical Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="470" width="110.43" height="30" as="geometry" />
+        <mxCell id="VkH7h2HziBzFlEW19kWf-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="176" y="357" width="169.57" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="VkH7h2HziBzFlEW19kWf-38" value="LowLevel Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="106.95782608695652" y="550" width="96.08695652173913" height="30" as="geometry" />
+        <mxCell id="VkH7h2HziBzFlEW19kWf-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-49">
+          <mxGeometry width="169.57" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-36" value="Pysical Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-49">
+          <mxGeometry x="49.77999999999999" y="110" width="110.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-38" value="LowLevel Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-49">
+          <mxGeometry x="36.7378260869565" y="190" width="96.08695652173913" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-47" value="MDC Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-49">
+          <mxGeometry x="9.779999999999987" y="40" width="110.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="380" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-52" value="System&lt;div&gt;（HES+MDC）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-51">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-53" value="Device&lt;div&gt;（电表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-51">
+          <mxGeometry y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkH7h2HziBzFlEW19kWf-15" target="VkH7h2HziBzFlEW19kWf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkH7h2HziBzFlEW19kWf-30" target="VkH7h2HziBzFlEW19kWf-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
