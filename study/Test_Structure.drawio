@@ -34,6 +34,57 @@
         <mxCell id="VkH7h2HziBzFlEW19kWf-13" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-14">
           <mxGeometry x="140" y="45" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="360" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-19">
+          <mxGeometry width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-16" value="测试输出判断&lt;div&gt;格式化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-19">
+          <mxGeometry x="40" y="20" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-17" value="测试定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-19">
+          <mxGeometry x="40" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-18" value="Test Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-19">
+          <mxGeometry x="72.5" y="190" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="360" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-22" value="Paser(解析器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry x="100" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-23" value="Interpreter&lt;div&gt;（解释器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry x="100" y="65" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-26" value="通用功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry x="100" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-30" value="管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry x="20" y="25" width="50" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-31" value="High Level Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-20">
+          <mxGeometry x="60" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="360" width="170" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-32">
+          <mxGeometry width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-34" value="Paser(解析器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-32">
+          <mxGeometry x="10" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-36" value="通用功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-32">
+          <mxGeometry x="50" y="110" width="110.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VkH7h2HziBzFlEW19kWf-38" value="LowLevel Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VkH7h2HziBzFlEW19kWf-32">
+          <mxGeometry x="44.347826086956516" y="200" width="96.08695652173913" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
