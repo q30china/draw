@@ -4,77 +4,77 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-127" value="售电终端&lt;br&gt;(POS)+安全模块(CM)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电终端&lt;br&gt;(POS)+安全模块(CM)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="620" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-129" value="密钥管理中心&lt;br&gt;(KMC)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-129" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;密钥管理中心&lt;br&gt;(KMC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="590" width="180" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-130" value="公共服务&lt;br&gt;运营商" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共服务&lt;br&gt;运营商&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="772" width="70" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-132" value="安全模块&lt;br&gt;(CM)&lt;br&gt;制造商" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全模块&lt;br&gt;(CM)&lt;br&gt;制造商&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="830" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-133" value="表计制造商" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;表计制造商&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1170" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-134" value="安全模块安装" style="endArrow=none;html=1;exitX=1;exitY=0.15;endFill=0;startArrow=block;startFill=1;" parent="1" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-134" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全模块安装&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.15;endFill=0;startArrow=block;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.9999999999998" y="637.25" as="sourcePoint" />
             <mxPoint x="837" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-135" value="售电密钥装载请求" style="endArrow=classic;html=1;exitX=1;exitY=0.3;entryX=0.014;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-135" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电密钥装载请求&lt;/font&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.3;entryX=0.014;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.9999999999998" y="670" as="sourcePoint" />
             <mxPoint x="830" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-136" value="售电密钥装载" style="endArrow=classic;html=1;entryX=1;entryY=0.45;exitX=-0.002;exitY=0.169;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电密钥装载&lt;/font&gt;" style="endArrow=classic;html=1;entryX=1;entryY=0.45;exitX=-0.002;exitY=0.169;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="779.5" as="sourcePoint" />
             <mxPoint x="379.9999999999998" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-137" value="解码密钥&lt;br&gt;更改" style="endArrow=classic;html=1;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-127" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;解码密钥&lt;br&gt;更改&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-127" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="710" as="sourcePoint" />
             <mxPoint x="299.9999999999998" y="860.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-140" value="CM订单" style="endArrow=classic;html=1;entryX=0;entryY=0.5;exitX=1.043;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-130" target="kIWTv3nHnlGpTvX9Gzf3-132" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-140" value="CM订单" style="endArrow=classic;html=1;entryX=0;entryY=0.5;" parent="1" target="kIWTv3nHnlGpTvX9Gzf3-132" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="940" as="sourcePoint" />
+            <mxPoint x="500" y="860" as="sourcePoint" />
             <mxPoint x="650" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-141" value="CM初始化&lt;br&gt;请求" style="endArrow=classic;html=1;entryX=-0.002;entryY=0.412;exitX=1;exitY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-132" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CM初始化&lt;br&gt;请求&lt;/font&gt;" style="endArrow=classic;html=1;entryX=-0.002;entryY=0.412;exitX=1;exitY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-132" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="940" as="sourcePoint" />
             <mxPoint x="840" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-142" value="售电密钥装载授权" style="endArrow=classic;html=1;entryX=0.014;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.914;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-130" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电密钥装载授权&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.014;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.914;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-130" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="950" as="sourcePoint" />
             <mxPoint x="780" y="996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-144" value="售电密钥装载请求" style="endArrow=classic;html=1;entryX=0.03;entryY=0.902;exitX=1;exitY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-144" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电密钥装载请求&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.03;entryY=0.902;exitX=1;exitY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kIWTv3nHnlGpTvX9Gzf3-129" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519.9999999999998" y="1184.9999999999998" as="sourcePoint" />
             <mxPoint x="836.9399999999996" y="1178.8999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-145" value="售电密钥装载" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-145" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电密钥装载&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="1220" as="sourcePoint" />
             <mxPoint x="520" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-146" value="表计安装" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry x="0.0084" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-146" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表计安装&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="1160" as="sourcePoint" />
             <mxPoint x="300" y="1020" as="targetPoint" />
             <mxPoint as="offset" />
@@ -86,13 +86,13 @@
         <mxCell id="gBZKFp43DtMAvCf3ymCT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
           <mxGeometry width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gBZKFp43DtMAvCf3ymCT-4" value="预付费表计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
+        <mxCell id="gBZKFp43DtMAvCf3ymCT-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预付费表计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
           <mxGeometry x="20" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gBZKFp43DtMAvCf3ymCT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.835;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-130" target="kIWTv3nHnlGpTvX9Gzf3-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gBZKFp43DtMAvCf3ymCT-7" value="表计订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gBZKFp43DtMAvCf3ymCT-6">
+        <mxCell id="gBZKFp43DtMAvCf3ymCT-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表计订单&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gBZKFp43DtMAvCf3ymCT-6">
           <mxGeometry x="-0.0616" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -103,8 +103,8 @@
             <mxPoint x="380" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gBZKFp43DtMAvCf3ymCT-11" value="供应组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="788" width="60" height="30" as="geometry" />
+        <mxCell id="gBZKFp43DtMAvCf3ymCT-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;供应组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="788" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
