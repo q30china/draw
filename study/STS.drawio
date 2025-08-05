@@ -7,16 +7,16 @@
         <mxCell id="kIWTv3nHnlGpTvX9Gzf3-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;售电终端&lt;br&gt;(POS)+安全模块(CM)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="620" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-129" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;密钥管理中心&lt;br&gt;(KMC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-129" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;密钥管理中心&lt;br&gt;(KMC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="840" y="590" width="180" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共服务&lt;br&gt;运营商&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共服务&lt;br&gt;运营商&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="430" y="772" width="70" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全模块&lt;br&gt;(CM)&lt;br&gt;制造商&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全模块&lt;br&gt;(CM)&lt;br&gt;制造商&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="570" y="830" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;表计制造商&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kIWTv3nHnlGpTvX9Gzf3-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;表计制造商&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="190" y="1170" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIWTv3nHnlGpTvX9Gzf3-134" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全模块安装&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.15;endFill=0;startArrow=block;startFill=1;" parent="1" edge="1">
@@ -86,7 +86,7 @@
         <mxCell id="gBZKFp43DtMAvCf3ymCT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
           <mxGeometry width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gBZKFp43DtMAvCf3ymCT-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预付费表计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
+        <mxCell id="gBZKFp43DtMAvCf3ymCT-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预付费表计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gBZKFp43DtMAvCf3ymCT-5">
           <mxGeometry x="20" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gBZKFp43DtMAvCf3ymCT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.835;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kIWTv3nHnlGpTvX9Gzf3-130" target="kIWTv3nHnlGpTvX9Gzf3-133">
