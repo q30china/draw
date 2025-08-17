@@ -48,6 +48,15 @@
         <mxCell id="iJf8iZWGdYZ1I_asXrfe-14" value="数据映射到&lt;div&gt;测试报告模版.doc文件中&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="330" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iJf8iZWGdYZ1I_asXrfe-17" value="1. .doc文件各个表格的索引和cell开始位置&lt;div&gt;2. Excel数据表格的shcema，type_0: ((3,12), (3,153))&lt;/div&gt;&lt;div&gt;表示：第3行到第12行，第3列到第153列&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357" y="410" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJf8iZWGdYZ1I_asXrfe-18" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;" edge="1" parent="1" target="iJf8iZWGdYZ1I_asXrfe-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
