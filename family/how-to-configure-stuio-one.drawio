@@ -160,10 +160,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_WlF-dOEUZKodBVORpw" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="dbfGwR6urM9aoLC4VkpJ-1" target="dbfGwR6urM9aoLC4VkpJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-1" value="Loopback&lt;div&gt;1. 创建背景音乐输入虚拟设备（输入：浏览器+网易云音乐+其它音乐播放器）&lt;/div&gt;&lt;div&gt;2. 创建&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Studio one输出虚拟设备&lt;/font&gt;&lt;/b&gt;（输入： Studio one应用程序， 输出： channel1，2 ）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="20" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-2" value="Studio one&lt;div&gt;1. 偏爱-&amp;gt;设置&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;gt;音频设备，回放设备和录音设备选择&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;聚合设备&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，两个会同步。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 音乐项目机架&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;gt; main空白右键&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;gt;音频&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;gt;输入和输出，输入有麦克风输入和背景音乐输入虚拟设备。 输出有聚合设备中的2路声卡输出。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbfGwR6urM9aoLC4VkpJ-4" target="dbfGwR6urM9aoLC4VkpJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-4" value="音频MIDI设置&lt;div&gt;创建一个&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;聚合设备&lt;/b&gt;&lt;/font&gt;，选择：&lt;/div&gt;&lt;div&gt;1/&amp;nbsp; 声卡输入设备，synido 100 ，2输入。&lt;/div&gt;&lt;div&gt;2/ Loopback中的背景音乐输入虚拟设备，2输入。&lt;/div&gt;&lt;div&gt;3/ Loopback中Studio one输出虚拟设备，2输入。（此处如果其它软件，如直播软件选择虚拟聚合设备时，可以尝试这两个输入，不确定。）&lt;/div&gt;&lt;div&gt;4/ 声卡输出设备，synido 100， 2输出。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-5" value="系统-设置-声音&lt;div&gt;（输入+输出）&lt;/div&gt;&lt;div&gt;这里很重要，要想实现电脑的内录模式，必须要将输入设置成Loopback中的&lt;font style=&quot;font-weight: bold; color: rgb(255, 0, 0);&quot;&gt;Studio one输出虚拟设备，&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;输出为聚合设备2路输出。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dbfGwR6urM9aoLC4VkpJ-1" target="dbfGwR6urM9aoLC4VkpJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-11" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-12" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbfGwR6urM9aoLC4VkpJ-13" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
